@@ -20,7 +20,12 @@ What things you need to install the software and how to install them
 
 ### DEMO
 
-\#\# TODO
+<div align="center">
+
+
+<img src="./demo/walkie-talkie_demo.gif" width=300px>
+
+</div>
 
 ## Built With
 
